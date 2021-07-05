@@ -1,0 +1,99 @@
+body{
+    font-family: 'Poppins', sans-serif;
+
+    margin: 0;
+ 
+}
+
+.flex-comtainer{
+    display: flex;
+    vertical-align: middle;
+}
+.half-part{
+    width: 50%;
+    padding: 20px;
+    text-align: justify;
+    padding: 20px;
+}
+.name-decoration{
+    color: #003E53;
+}
+h1{
+    font-size: 40px;
+}
+a {
+    background-image: linear-gradient(#5ab1ce, #02141a) ;
+    color: white;
+    padding: 10px;
+    text-align: center;   
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+    height: 20px;
+    width: 150px;
+  }
+
+  
+
+
+  .experience-items{
+    background-image: url(images/experienceback.jpg);
+   
+    background-repeat: no-repeat;
+    padding-bottom: 100px;
+  
+    
+  }
+
+  .experience-Item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 15px 15px 15px 20px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    border-radius: 10px;
+    text-align: justify;
+    border-left: 10px solid gray;
+}
+
+.experienxe{
+    text-align: center;
+}
+
+
+
+.image1{
+
+    text-align: center;
+  }
+  .image2{
+
+    text-align: center;
+  }
+
+
+ .footer-section{
+     text-align: center;
+ }
+ h3{
+     color: #003E53;
+ }
+
+
+
+ #web-developer-experience{
+    border-left: 7px solid;
+    border-image: linear-gradient(#003E53, #ebd5d1, #2267b6);
+    border-image-slice:1;
+    border-radius: 10px;
+   
+  }
+  #full-developer-experience{
+    border-left: 7px solid;
+    border-image: linear-gradient(#55C0CC, #ebd5d1, #175F71);
+    border-image-slice:1;
+    border-radius: 10px;
+}
+.exp-items{
+    font-size: 30px;
+}
